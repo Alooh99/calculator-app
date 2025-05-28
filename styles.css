@@ -95,13 +95,14 @@ button:hover {
 
 
 .operator{
-    background-color: #d44700;
+    background-color: #9a9999;
+    font-size: 25px;
 }
 .equalSign {
    
   height: 50px;
   border-radius: 50px;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 700;
   color: black;  
      
